@@ -1,1 +1,1 @@
-[Startup Web](https://github.com/rachmatramadhanh/Startup-Web)                                           | [Live Demo](https://startup-web.w3spaces.com/)                      |
+[Startup Web](https://github.com/rachmatramadhanh/Startup-Web)                                           | [Live Demo](https://www.w3spaces-preview.com/startup-web/index.html)                      |
